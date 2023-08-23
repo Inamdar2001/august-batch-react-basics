@@ -5,6 +5,7 @@ import Header from "./componets/Header";
 import Footer from "./componets/Footer";
 import Navigation from "./componets/Fnavigation";
 import About from "./componets/About";
+import Dummy from "./componets/Dummy";
 
 function App() {
   return (
