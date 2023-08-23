@@ -1,0 +1,10 @@
+.text {
+  color: brown;
+  background-color: black;
+}
+
+.para {
+  font-size: xx-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: violet;
+}

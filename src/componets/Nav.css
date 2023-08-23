@@ -1,0 +1,11 @@
+.mainlist {
+  display: flex;
+  justify-content: space-around;
+  color: brown;
+  background-color: burlywood;
+  height: 80px;
+}
+.listItem {
+  font-size: 30px;
+  margin-top: 15px;
+}
