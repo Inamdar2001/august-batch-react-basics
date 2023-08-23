@@ -17,6 +17,7 @@ function App() {
       <div className="dummy-container">
         <Dummy />
       </div>
+      <h1>react properies</h1>
     </div>
   );
 }
